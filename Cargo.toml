@@ -1,0 +1,6 @@
+[package]
+name = "rust-open-addresing-linear-probing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
